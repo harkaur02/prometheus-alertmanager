@@ -139,7 +139,7 @@ servicePerReplica:
 
   # Service type
   #
-  type: ClusterIP
+  type: LoadBalancer
 
 ingress:
   enabled: false
